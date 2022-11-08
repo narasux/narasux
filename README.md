@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![HitCount](https://hits.b3log.org/schneesu/schneesu.svg)](https://github.com/schneesu/)
+[![HitCount](https://hits.b3log.org/narasux/narasux.svg)](https://github.com/narasux/)
 
 Take up the challenge bravely!
 
 🌈 &nbsp; &nbsp; building ~
 
-![Schnee's GitHub stats](https://github-readme-stats.vercel.app/api?username=schneesu&show_icons=true)
+![Schnee's GitHub stats](https://github-readme-stats.vercel.app/api?username=narasux&show_icons=true)
